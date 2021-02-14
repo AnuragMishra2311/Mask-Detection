@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-net = cv2.dnn.readNetFromDarknet("yolov3_custom.cfg","yolov3_custom_5000.weights")
+net = cv2.dnn.readNetFromDarknet("yolov3_custom.cfg","yolov3_custom_4000.weights")
 
 classes = ['Mask','No_Mask']
 
