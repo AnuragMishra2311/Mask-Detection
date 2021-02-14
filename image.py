@@ -5,7 +5,7 @@ import random
 
 
 # Load Yolo
-net = cv2.dnn.readNet("yolov3_custom_5000.weights", "yolov3_custom.cfg")
+net = cv2.dnn.readNet("yolov3_custom_4000.weights", "yolov3_custom.cfg")
 
 # Name custom object
 classes = ['Mask','No_Mask']
