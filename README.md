@@ -5,7 +5,7 @@ Object Detection model trained using YOLOv3. It detects whether a person is wear
 ![](visuals/loss.png)
 
 ### Performance (Mean Average Precision) 
-![](visuals/map.png)
+![](visuals/map.PNG)
 
 ### Sample Output for image
-![](visuals/demp.png)
+![](visuals/demp.PNG)
