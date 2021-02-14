@@ -8,4 +8,4 @@ Object Detection model trained using YOLOv3. It detects whether a person is wear
 ![](visuals/map.PNG)
 
 ### Sample Output for image
-![](visuals/demp.PNG)
+![](visuals/demo.PNG)
